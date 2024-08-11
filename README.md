@@ -18,8 +18,8 @@ The switch expression is evaluated once and the value of the expression is compa
 ## CODE1:
 
 ```
-//Name:-Srihari Nair
-//Prn:-23070123131
+//Name:-Saniya Chatterjee
+//Prn:-23070123113
 //Class:-E&TC B2 
 #include <iostream>
 using namespace std;
@@ -44,8 +44,8 @@ int main() {
 ## CODE2:
 
 ```
-//Name:-Srihari Nair
-//Prn:-23070123131
+//Name:-Saniya Chatterjee
+//Prn:-23070123113
 //Class:-E&TC B2 
 #include<iostream>
 using namespace std;
@@ -87,8 +87,8 @@ int main() {
 ## CODE3:
 
 ```
-//Name:-Srihari Nair
-//Prn:-23070123131
+//Name:-Saniya Chatterjee
+//Prn:-23070123113
 //Class:-E&TC B2 
 #include <iostream>
 using namespace std;
@@ -119,8 +119,8 @@ int main() {
 ## CODE4:
 
 ```
-//Name:-Srihari Nair
-//Prn:-23070123131
+//Name:-Saniya Chatterjee
+//Prn:-23070123113
 //Class:-E&TC B2 
 #include<iostream>
 using namespace std;
