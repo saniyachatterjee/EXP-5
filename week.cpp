@@ -1,6 +1,6 @@
-//Name:-Saaj Mulik
-//Prn:-23070123109
-//Class:-E&TC B2 
+//Name: Saniya Chatterjee
+//Prn: 23070123113
+//Class: EnTC B-2
 #include<iostream>
 using namespace std;
 int main() {
